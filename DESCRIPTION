@@ -1,0 +1,14 @@
+Package: tableFunctions
+Type: Package
+Title: Curate Table Functions
+Version: 0.1.0
+Author: Eric
+Maintainer: Eric <eric.luong@cshs.org>
+Description: Building a package to compile functions used
+    to assist in creating tables for publication.
+License: Cedars-Sinai
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tidyverse
+RoxygenNote: 7.0.0

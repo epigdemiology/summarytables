@@ -1,2 +1,2 @@
-# summarytables
-Generate summary tables for export
+# tablefunctions
+A collection of functions to create tables for export
